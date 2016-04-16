@@ -1,0 +1,17 @@
+package j23;
+
+public class area_triangle extends area_shapes{
+
+	@Override
+	void draw() {
+		// TODO Auto-generated method stub
+		System.out.println("this is triangle");
+	}
+
+	@Override
+	void getarea() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

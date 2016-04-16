@@ -1,0 +1,17 @@
+package j23;
+
+public class area_rectangle extends area_shapes{
+
+	@Override
+	void draw() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	void getarea() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

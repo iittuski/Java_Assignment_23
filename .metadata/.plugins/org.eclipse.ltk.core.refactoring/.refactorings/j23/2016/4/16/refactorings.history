@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;j23.j23&apos; to &apos;area_shapes&apos;&#x0D;&#x0A;- Original project: &apos;j23&apos;&#x0D;&#x0A;- Original element: &apos;j23.j23&apos;&#x0D;&#x0A;- Renamed element: &apos;j23.area_shapes&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;j23&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;j23{j23.java[j23" matchStrategy="1" name="area_shapes" qualified="false" references="true" similarDeclarations="false" stamp="1460830313413" textual="false" version="1.0"/>
+</session>

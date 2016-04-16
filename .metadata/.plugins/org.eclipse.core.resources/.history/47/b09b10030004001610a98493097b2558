@@ -1,0 +1,17 @@
+package j23;
+
+public class area_sqaure extends area_shapes{
+
+	@Override
+	void draw() {
+		// TODO Auto-generated method stub
+		System.out.println("This is sqaure");
+	}
+
+	@Override
+	void getarea() {
+		// TODO Auto-generated method stub
+		System.out.println("area is l*b");
+	}
+
+}

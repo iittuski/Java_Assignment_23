@@ -1,0 +1,29 @@
+package j23;
+
+public class area_rectangle extends area_shapes{
+
+	@Override
+	void areatriangle() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	void arearec() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	void areasquare() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	void arearhombus() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

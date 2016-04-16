@@ -1,0 +1,17 @@
+package j23;
+
+public class area_rhombus extends area_shapes{
+
+	@Override
+	void draw() {
+		// TODO Auto-generated method stub
+		System.out.println("This is rhombus");
+	}
+
+	@Override
+	void getarea() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

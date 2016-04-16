@@ -1,0 +1,22 @@
+package j23;
+
+public class area_rectangle extends area_shapes {
+
+	@Override
+	void draw() {
+		// TODO Auto-generated method stub
+		System.out.println("rectangle");
+	}
+
+	@Override
+	void getarea() {
+		// TODO Auto-generated method stub
+		System.out.println("Area is l*b");
+	}
+
+	public static void main(String args[]) {
+		area_rectangle t1 = new area_rectangle();
+		t1.draw();
+		t1.getarea();
+	}
+}
